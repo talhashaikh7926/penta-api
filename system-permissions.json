@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5da41cac11018e313cf7707b"},"groupBy":"User","permissions":[{"_id":"5da1c8d4bb32020e18f67075","claimType":"user.create","claimValue":"user.create","discriminator":"User create "},{"_id":"5da48ca3f3ef232900d81fb1","claimType":"user.view","claimValue":"user.view","discriminator":"User view"},{"_id":"5da48f14f3ef232900d81fbb","claimType":"user.delete","claimValue":"user.delete","discriminator":"User Delete"},{"_id":"5da48feff3ef232900d81fbd","claimType":"user.edit","claimValue":"user.edit","discriminator":"User Update"}]}
+{"_id":{"$oid":"5da43f095679fc3f70e69a16"},"groupBy":"Employees","permissions":[""]}
+{"_id":{"$oid":"5da43f7f5679fc3f70e69a17"},"groupBy":"Others","permissions":""}
